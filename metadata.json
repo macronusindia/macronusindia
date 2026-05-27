@@ -1,0 +1,6 @@
+{
+  "name": "Macronus Digital Labs",
+  "description": "An ultra-premium modern SaaS landing page for a Web Development and UI/UX Design agency inspired by Stripe, Framer, and Linear aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
